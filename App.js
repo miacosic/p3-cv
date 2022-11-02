@@ -11,7 +11,7 @@ export default function App() {
           source={require('./assets/mia.png')}
           style={styles.image}
         />
-        <Text style={styles.name}>Mia Čosić</Text>
+        <Text style={styles.name}>Mia Ćosić</Text>
       </View>
       <View style={styles.cvSection}>
         <Text style={styles.headers}>Obrazovanje</Text>
